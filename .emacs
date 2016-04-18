@@ -201,8 +201,6 @@ Called via the `after-load-functions' special hook."
 
 ;(cua-mode t)
 (menu-bar-mode -1)
-(tool-bar-mode 0)
-(scroll-bar-mode 0)
 ;=============================================
 ;            Basic Edit Setting
 ;=============================================
